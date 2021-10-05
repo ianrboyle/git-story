@@ -1,5 +1,5 @@
 
-My life got flipped-turned upside down
+
 And I'd like to take a minute
 Just sit right there
 I'll tell you how I became the prince of a town called Bel Air.
@@ -8,3 +8,5 @@ Making some changes. Adding these lines. Deleting the first line.
 
 Making a second change. 
 2+2 = 4.
+
+Deleted the first line. This is the third change made.
